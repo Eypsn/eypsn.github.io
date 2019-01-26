@@ -816,11 +816,16 @@ a:hover {
 
 .site-footer-owner {
     display: block;
-    font-weight: bold
+    font-weight: bold;
+	text-align: center; 
+	color:#FA7268;
 }
 
 .site-footer-credits {
-    color: #819198
+	display: block;
+	font-size:0.8rem;
+	text-align: center; 
+    color: #819198;
 }
 
 .main-content h3 {
