@@ -818,6 +818,7 @@ a:hover {
 
 .site-footer-owner {
     display: block;
+	font-size:0.8rem;
     font-weight: bold;
 	text-align: center; 
 	color:#F74316;
