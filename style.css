@@ -819,12 +819,14 @@ a:hover {
 .site-footer-owner {
     display: block;
     font-weight: bold;
+	font-size:0.8rem;
 	text-align: center; 
 	color:#FA7268;
 }
 
 .site-footer-credits {
 	display: block;
+	font-size:0.8rem;
 	text-align: center; 
     color: #819198;
 }
